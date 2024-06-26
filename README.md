@@ -5,16 +5,18 @@
 <hr>
 <h2>Prerequisite:</h2>
 
+pip install sockets
+
 pip install scapy
 
-pip install collection
+pip install tqdm
 
 pip install threaded
 <hr>
 <h2>Linux user guide:</h2>
 
-<h5>git clone https://github.com/imanh2002/DOS-fire.git
+<h5>git clone https://github.com/imanh2002/DOSDOS.git
 
-cd DOS-fire
+cd DOSDOS
 
-python3 DOS-fire.py</h5>
+python3 DOSDOS</h5>
