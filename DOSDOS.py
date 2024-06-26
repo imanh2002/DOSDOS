@@ -9,7 +9,7 @@ def check_ip_exists(ip):
         return True
     except socket.error:
         return False
-print('\33[1m'+'\33[101m' + "DOS ATTACK" + '\033[0m' + '\n')
+print('\33[1m'+'\33[101m' + "DOSDOS" + '\033[0m' + '\n')
 print('\n'+'\033[91m' + "MADE BY : ", '\033[0m', '\33[5m'+'\33[32m' + "IMAN" + '\033[0m')
 print('\33[4m'+'\33[104m' + "https://github.com/imanh2002" + '\033[0m' + '\n')
 target_ip = input("Target IP: ")
