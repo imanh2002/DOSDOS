@@ -19,4 +19,4 @@ pip install threaded
 
 cd DOSDOS
 
-python3 DOSDOS</h5>
+sudo python3 DOSDOS</h5>
